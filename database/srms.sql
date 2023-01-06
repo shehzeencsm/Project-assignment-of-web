@@ -34,6 +34,7 @@ CREATE TABLE `admin_login` (
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1 ROW_FORMAT=COMPACT;
 
 --
+
 -- Dumping data for table `admin_login`
 --
 
